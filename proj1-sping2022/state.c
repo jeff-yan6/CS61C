@@ -31,7 +31,7 @@ static void set_board_at(game_state_t* state, int x, int y, char ch) {
 /* Task 1 */
 game_state_t* create_default_state() {
   // TODO: Implement this function.
-  return NULL;
+  return;
 }
 
 /* Task 2 */
